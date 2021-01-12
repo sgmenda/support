@@ -8,7 +8,7 @@ key: 54
 ---
 description:
 
-The Tor Browser warns users when they try to copy a cryptocurrency addresses from insecure (HTTP) websites.
+The Tor Browser warns users when they try to copy cryptocurrency addresses from insecure (HTTP) websites.
 Content, including cryptocurrency addresses, on insecure (HTTP) websites could've been modified.
-Reconnecting to a secure (HTTPS) version of the website should stops the warning.
+Reconnecting to a secure (HTTPS) version of the website should stop the warning.
 If you're the website owner, consider adding your site to [HTTPS Everywhere](https://www.eff.org/https-everywhere/faq/#how-do-i-add-my-own-site-to-https-everywhere) which would automatically upgrade insecure (HTTP) connections from the Tor Browser to secure (HTTPS) ones.
